@@ -1,5 +1,5 @@
 iElephant
 ================
-A  magazine in China
+A  magazine 
 
 ![](https://github.com/Liqiankun/iElephant/raw/master/idaxiang/iosidaxiang.png) 
